@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/uniqueayo1988/crud-note#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "yargs": "^15.0.2"
   }
 }
